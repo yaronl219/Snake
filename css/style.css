@@ -46,7 +46,7 @@ body {
 }
 
 .apple {
-    background-image: url("/img/apple.svg");
+    background-image: url("../img/apple.svg");
     background-repeat: no-repeat;
     background-position: center;
 }
